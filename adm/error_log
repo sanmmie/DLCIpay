@@ -1,0 +1,2 @@
+[11-May-2021 17:54:22 America/New_York] PHP Warning:  imagepng(../../assets/img/header.png): failed to open stream: No such file or directory in /home/ibktwfor/dlcipay.com/client/adm/media.php on line 60
+[18-May-2021 15:23:22 America/New_York] PHP Warning:  imagepng(../../assets/img/header.png): failed to open stream: No such file or directory in /home/ibktwfor/dlcipay.com/client/adm/media.php on line 60
